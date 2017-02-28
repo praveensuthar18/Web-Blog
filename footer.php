@@ -3,5 +3,5 @@
 }
 </style>
 <div id="footer">
-		<p>Copyright &copy; VJTI 2017 | Designed by <a href="">Akhil Pawar</a> |  <a href="">Praveen Suthar</a> </p>
+		<p>Copyright &copy; VJTI 2017 | Designed by <a href="">Akhil Powar</a> |  <a href="">Praveen Suthar</a> </p>
 </div>
